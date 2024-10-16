@@ -62,7 +62,7 @@ Group by c.customer_id, G.name
 Order By c.Email asc
 
 
-Q2: Let's invite the artists who have written the most rock music in our dataset. 
+Q2: Lets invite the artists who have written the most rock music in our dataset. 
 Write a query that returns the Artist name and total track count of the top 10 rock bands.
 
 
